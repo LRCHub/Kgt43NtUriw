@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "心影",
+  "base_artist": "花たん",
+  "createdAt": "2026-02-14T13:44:00.094662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心影",
+      "artist": "张清芳",
+      "has_synced": true,
+      "path": "select/01_心影_张清芳.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心影",
+      "artist": "張清芳",
+      "has_synced": false,
+      "path": "select/02_心影_張清芳.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心影",
+      "artist": "凤飞飞",
+      "has_synced": true,
+      "path": "select/03_心影_凤飞飞.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心影",
+      "artist": "花たん",
+      "has_synced": false,
+      "path": "select/pl_01_心影_花たん.txt"
+    }
+  ]
+}
